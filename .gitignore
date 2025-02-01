@@ -1,0 +1,4 @@
+.vs/
+# Ignore bin and obj directories globally in all projects
+**/bin/
+**/obj/
