@@ -15,3 +15,4 @@ C:\Users\nabin\OneDrive\Desktop\microservices\RepositoryClasses\obj\Debug\net8.0
 C:\Users\nabin\OneDrive\Desktop\microservices\RepositoryClasses\bin\Debug\net8.0\ModelClasses.dll
 C:\Users\nabin\OneDrive\Desktop\microservices\RepositoryClasses\bin\Debug\net8.0\ModelClasses.pdb
 C:\Users\nabin\OneDrive\Desktop\microservices\RepositoryClasses\obj\Debug\net8.0\Reposito.A32A4DF0.Up2Date
+C:\Users\nabin\OneDrive\Desktop\microservices\RepositoryClasses\obj\Debug\net8.0\RepositoryClasses.sourcelink.json

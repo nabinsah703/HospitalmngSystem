@@ -10,3 +10,4 @@ C:\Users\nabin\OneDrive\Desktop\microservices\ModelClasses\obj\Debug\net8.0\Mode
 C:\Users\nabin\OneDrive\Desktop\microservices\ModelClasses\obj\Debug\net8.0\refint\ModelClasses.dll
 C:\Users\nabin\OneDrive\Desktop\microservices\ModelClasses\obj\Debug\net8.0\ModelClasses.pdb
 C:\Users\nabin\OneDrive\Desktop\microservices\ModelClasses\obj\Debug\net8.0\ref\ModelClasses.dll
+C:\Users\nabin\OneDrive\Desktop\microservices\ModelClasses\obj\Debug\net8.0\ModelClasses.sourcelink.json

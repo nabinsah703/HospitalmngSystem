@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HostpitalManagement.WebMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59e7077da8e60720ecab912c6b4d04ef443974b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0d8507fb4a31af6151f6cdbc1fefebd21f268ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("HostpitalManagement.WebMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HostpitalManagement.WebMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
