@@ -1,0 +1,17 @@
+C:\Users\nabin\OneDrive\Desktop\microservices\RepositoryClasses\bin\Debug\net8.0\RepositoryClasses.deps.json
+C:\Users\nabin\OneDrive\Desktop\microservices\RepositoryClasses\bin\Debug\net8.0\RepositoryClasses.runtimeconfig.json
+C:\Users\nabin\OneDrive\Desktop\microservices\RepositoryClasses\bin\Debug\net8.0\RepositoryClasses.dll
+C:\Users\nabin\OneDrive\Desktop\microservices\RepositoryClasses\bin\Debug\net8.0\RepositoryClasses.pdb
+C:\Users\nabin\OneDrive\Desktop\microservices\RepositoryClasses\obj\Debug\net8.0\RepositoryClasses.csproj.AssemblyReference.cache
+C:\Users\nabin\OneDrive\Desktop\microservices\RepositoryClasses\obj\Debug\net8.0\RepositoryClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabin\OneDrive\Desktop\microservices\RepositoryClasses\obj\Debug\net8.0\RepositoryClasses.AssemblyInfoInputs.cache
+C:\Users\nabin\OneDrive\Desktop\microservices\RepositoryClasses\obj\Debug\net8.0\RepositoryClasses.AssemblyInfo.cs
+C:\Users\nabin\OneDrive\Desktop\microservices\RepositoryClasses\obj\Debug\net8.0\RepositoryClasses.csproj.CoreCompileInputs.cache
+C:\Users\nabin\OneDrive\Desktop\microservices\RepositoryClasses\obj\Debug\net8.0\RepositoryClasses.dll
+C:\Users\nabin\OneDrive\Desktop\microservices\RepositoryClasses\obj\Debug\net8.0\refint\RepositoryClasses.dll
+C:\Users\nabin\OneDrive\Desktop\microservices\RepositoryClasses\obj\Debug\net8.0\RepositoryClasses.pdb
+C:\Users\nabin\OneDrive\Desktop\microservices\RepositoryClasses\obj\Debug\net8.0\RepositoryClasses.genruntimeconfig.cache
+C:\Users\nabin\OneDrive\Desktop\microservices\RepositoryClasses\obj\Debug\net8.0\ref\RepositoryClasses.dll
+C:\Users\nabin\OneDrive\Desktop\microservices\RepositoryClasses\bin\Debug\net8.0\ModelClasses.dll
+C:\Users\nabin\OneDrive\Desktop\microservices\RepositoryClasses\bin\Debug\net8.0\ModelClasses.pdb
+C:\Users\nabin\OneDrive\Desktop\microservices\RepositoryClasses\obj\Debug\net8.0\Reposito.A32A4DF0.Up2Date
